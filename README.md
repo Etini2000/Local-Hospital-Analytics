@@ -24,7 +24,8 @@ The dashboard focuses on tracking and visualizing the following critical areas:
   Departmental and diagnosis-specific resource consumption (using a proxy score).
 
 # Data Source
-The project utilizes realistic mocked hospital admission data, generated programmatically using Python (specifically pandas, numpy, and faker libraries) to simulate typical hospital operations, including patient demographics, diagnoses, admission details, and varying wait times to highlight potential inefficiencies. <a href = "https://docs.google.com/spreadsheets/d/1PB1AP2THf4Azz6wUGt7wRj2i7YDk_ysAA4xxfWBhd7U/edit?usp=sharing">Dataset</a>
+The project utilizes realistic mocked hospital admission data, generated programmatically using Python (specifically pandas, numpy, and faker libraries) to simulate typical hospital operations, including patient demographics, diagnoses, admission details, and varying wait times to highlight potential inefficiencies. <a href = "https://docs.google.com/spreadsheets/d/1PB1AP2THf4Azz6wUGt7wRj2i7YDk_ysAA4xxfWBhd7U/edit?usp=sharing">The Dataset</a> and 
+<a href = "https://colab.research.google.com/drive/1pfS6qpjGVvGugbYLyYe9byAwLEl4XA9U?usp=sharing">The Python Script</a>
 
 # Tools Used
 - Data Generation & Processing: Python (Pandas, NumPy, Faker)
